@@ -1,2 +1,2 @@
-# blogproject
-messy
+# Django-blogproject
+
